@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://awesome-ritchie-1b533b.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
