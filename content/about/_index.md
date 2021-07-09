@@ -6,4 +6,6 @@ draft: false
 
 **WHO AM I?**
 
-Second Paragraph: What are the benefits 
+![aboutme](/images/aboutme.png)
+
+My name is Harshini and I have just finished my first year studying Philosophy, Politics & Economics at the King's College London

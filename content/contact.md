@@ -5,4 +5,9 @@ draft: false
 menu: "main"
 ---
 
-First Paragraph: How to find me
+**Feel free to reach out to me via Email or LinkedIn!**
+
+*Email:* harshinimk01@gmail.com
+
+*LinkedIn:* https://www.linkedin.com/in/harshini-muthukrishnan-558755155/
+
