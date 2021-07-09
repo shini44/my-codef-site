@@ -31,6 +31,10 @@ University is a place which provides numerous benefits. It allows you to dive fu
 
 ![bluequestion](/images/bluequestion.png)
 
-Having been through this process, I understand that it can be a daunting one. 
+Having been through this process, *I understand that it can be a daunting one*. 
 
-This is why I would like to offer my personal expertise in the field of applications - specifically for Humanities Degrees - and help you navigate this winding road. 
+This is why I would like to offer my personal expertise in the field of UK university applications - **specifically for Humanities Degrees** - and help you navigate this winding road. 
+
+I am appreciative of the knowledge that was shared with me by many gracious students/mentors during my application process, and so, **my services would be at no cost**. 
+
+I simply wish to share the knowledge that I have in the hopes of contributing positively in some way to the betterment of society.
